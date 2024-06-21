@@ -24,4 +24,4 @@ const FormField = ({title,value,placeholder,handleChangeText,otherStyles,...prop
   )
 }
 
-export default FormField
+export default FormField //i am good
